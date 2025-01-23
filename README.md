@@ -48,16 +48,3 @@
 
 - **`/help`:**
   - Seek guidance from the AniPlay Oracle for commands and wisdom.
-
-## Contributing 🧙‍♂️
-
-- Contributions are like potions, mix them well! Open an issue or brew a pull request if you've got magic to share.
-
-## License 📜✨
-
-This project is enchanted with the magic of the MIT License. Check out the [LICENSE](https://github.com/illuminati-Dev/Fsub/blob/main/License) file for spell details.
-
-⚠️ Disclaimer: Be cautious, prolonged exposure to Giveawaybot may lead to unpredictable laughter and occasional wizardry. Use responsibly! ⚡️🧙‍♀️
-
-
-## All code made by: [⏤͟͞ 𝙉𝘼𝙉𝙊™🇮🇳](https://telegram.me/GenVNano)
